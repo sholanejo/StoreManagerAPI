@@ -29,11 +29,11 @@ Kindly ensure that you are in the root directory before running the following co
     npm run index
 
 # Features				
-Store attendant can search and add products to buyer’s cart.
-Store attendant can see his/her sale records but can’t modify them.
-Application is able to show available products, quantity and price.
-Store owner can see sales and can filter by attendants.
-Store owner can add, modify and delete products.
-Store owner can give admin rights to a store attendant.
-Products have categories.
-Store attendants can add products to specific categories.	
+- Store attendant can search and add products to buyer’s cart.
+- Store attendant can see his/her sale records but can’t modify them.
+- Application is able to show available products, quantity and price.
+- Store owner can see sales and can filter by attendants.
+- Store owner can add, modify and delete products.
+- Store owner can give admin rights to a store attendant.
+- Products have categories.
+- Store attendants can add products to specific categories.	
